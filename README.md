@@ -11,7 +11,7 @@
 <img width="842" alt="Screenshot 2023-12-06 at 13 19 23" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/f63ebe4e-272b-40bd-8e73-9ac8490bfafa">
 
 ## VLSM Topology (CPT)
-
+<img width="959" alt="Screenshot 2023-12-06 at 15 11 01" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/91369024/74c2e15d-f55e-42c2-a964-f704858a1fe3">
 
 ## IP Prefix
 Our group's IP prefix which will be used throughout this project is ``192.231``.
@@ -53,10 +53,14 @@ Our group's IP prefix which will be used throughout this project is ``192.231``.
 ### IP Tree
 ![CIDR Tree](https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/ebabde1d-69be-4b99-8388-0d8d75210bce)
 Alternatively, you may view it [here](https://miro.com/app/board/uXjVNI4Ajh0=/?share_link_id=929192598514).
+And for the VLSM,
+![VLSM_I06](https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/91369024/b03c16ab-f63d-4390-b9bb-0ee10bf24938)
 
 ### IP Allocation
 <img width="398" alt="image" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/bde4debb-5c87-46cc-9fb4-0d4cda92e4e2">
+<img width="875" alt="Screenshot 2023-12-06 at 15 10 03" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/91369024/d7a23998-2015-4ea1-aac2-d85f0eae90c9">
 
-### VLSM Tree
-![VLSM_I06](https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/91369024/b03c16ab-f63d-4390-b9bb-0ee10bf24938)
+
+
+
 
