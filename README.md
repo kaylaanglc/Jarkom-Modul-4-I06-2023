@@ -57,3 +57,6 @@ Alternatively, you may view it [here](https://miro.com/app/board/uXjVNI4Ajh0=/?s
 ### IP Allocation
 <img width="398" alt="image" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/bde4debb-5c87-46cc-9fb4-0d4cda92e4e2">
 
+### VLSM Tree
+![VLSM_I06](https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/91369024/b03c16ab-f63d-4390-b9bb-0ee10bf24938)
+
