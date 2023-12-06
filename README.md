@@ -58,7 +58,7 @@ Alternatively, you may view it [here](https://miro.com/app/board/uXjVNI4Ajh0=/?s
 <img width="398" alt="image" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/bde4debb-5c87-46cc-9fb4-0d4cda92e4e2">
 
 ### Routing
-<img width="440" alt="image" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/38dae5df-995c-446a-81fc-979cd47fa33c">
+<img width="438" alt="image" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/a76e6f9a-48b6-451d-93d3-e3639a7db80a">
 
 
 ## VLSM (Variable Length Subnet Masking)
