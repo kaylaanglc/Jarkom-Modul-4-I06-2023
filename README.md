@@ -48,6 +48,7 @@ Our group's IP prefix which will be used throughout this project is ``192.231``.
 
 - ![#ffb3ce](https://via.placeholder.com/15/ffb3ce/000000?text=+) **8th Aggregation (I) - Final Supernet**
 <img width="422" alt="image" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/fa23dac5-0b69-42ef-abf8-d310e63e9cc7">
+<img width="842" alt="Screenshot 2023-12-06 at 13 19 23" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/f63ebe4e-272b-40bd-8e73-9ac8490bfafa">
 
 ### IP Tree
 ![CIDR Tree](https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/ebabde1d-69be-4b99-8388-0d8d75210bce)
@@ -55,6 +56,10 @@ Alternatively, you may view it [here](https://miro.com/app/board/uXjVNI4Ajh0=/?s
 
 ### IP Allocation
 <img width="398" alt="image" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/bde4debb-5c87-46cc-9fb4-0d4cda92e4e2">
+
+### Routing
+<img width="440" alt="image" src="https://github.com/kaylaanglc/Jarkom-Modul-4-I06-2023/assets/116704203/38dae5df-995c-446a-81fc-979cd47fa33c">
+
 
 ## VLSM (Variable Length Subnet Masking)
 
